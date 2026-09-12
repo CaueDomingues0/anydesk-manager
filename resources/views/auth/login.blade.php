@@ -124,7 +124,15 @@
                 </button>
             </form>
 
-            <!-- Rodapé (visível apenas em telas pequenas, já que o painel de marca fica oculto) -->
+            <!-- Link de Cadastro reposicionado -->
+            <div class="mt-6 text-center">
+                <p class="text-sm text-gray-500">
+                    Não tem uma conta? 
+                    <a href="{{ route('register') }}" class="font-medium text-gray-900 hover:underline">Cadastre-se</a>
+                </p>
+            </div>
+
+            <!-- Rodapé (visível apenas em telas pequenas) -->
             <p class="lg:hidden text-center text-xs text-gray-400 mt-10">
                 &copy; {{ date('Y') }} Webline Sistemas — Todos os direitos reservados.
             </p>
