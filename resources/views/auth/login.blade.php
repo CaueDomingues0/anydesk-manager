@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Entrar - AnyDesk Manager</title>
+    <title>Entrar - Acessos Manager</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -31,7 +31,7 @@
             <div class="w-9 h-9 rounded-lg bg-white/10 border border-white/10 flex items-center justify-center font-semibold text-sm">
                 AM
             </div>
-            <span class="font-semibold tracking-tight">AnyDesk Manager</span>
+            <span class="font-semibold tracking-tight">Acessos Manager</span>
         </div>
 
         <!-- Meio: ilustração + headline -->
@@ -55,7 +55,7 @@
         </div>
 
         <!-- Rodapé -->
-        <p class="relative z-10 text-xs text-gray-500">&copy; {{ date('Y') }} Webline Sistemas — Todos os direitos reservados.</p>
+        <p class="relative z-10 text-xs text-gray-500">&copy; {{ date('Y') }} Domingues — Todos os direitos reservados.</p>
     </div>
 
     <!-- Painel do formulário -->
@@ -134,7 +134,7 @@
 
             <!-- Rodapé (visível apenas em telas pequenas) -->
             <p class="lg:hidden text-center text-xs text-gray-400 mt-10">
-                &copy; {{ date('Y') }} Webline Sistemas — Todos os direitos reservados.
+                &copy; {{ date('Y') }} Domingues — Todos os direitos reservados.
             </p>
         </div>
     </div>
