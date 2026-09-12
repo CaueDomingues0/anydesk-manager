@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Entrar - Acessos Manager</title>
+    <title>Entrar - Access Manager</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -31,7 +31,7 @@
             <div class="w-9 h-9 rounded-lg bg-white/10 border border-white/10 flex items-center justify-center font-semibold text-sm">
                 AM
             </div>
-            <span class="font-semibold tracking-tight">Acessos Manager</span>
+            <span class="font-semibold tracking-tight"> Access Manager</span>
         </div>
 
         <!-- Meio: ilustração + headline -->
